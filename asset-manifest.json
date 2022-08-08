@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/AKdimka/goit-react-hw-05-movies-2/static/css/main.7acaea2f.css",
-    "main.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/main.07d3183d.js",
+    "main.css": "/AKdimka/goit-react-hw-05-movies-2/static/css/main.67694512.css",
+    "main.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/main.cfb2d7cf.js",
+    "home-page.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/home-page.1dc845f1.chunk.js",
+    "movie-page.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/movie-page.a401728b.chunk.js",
+    "movie-details-page.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/movie-details-page.676103e7.chunk.js",
+    "not-found-page.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/not-found-page.a2208e40.chunk.js",
+    "cast.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/cast.293dc55b.chunk.js",
+    "review.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/review.d84be11b.chunk.js",
     "index.html": "/AKdimka/goit-react-hw-05-movies-2/index.html",
-    "main.7acaea2f.css.map": "/AKdimka/goit-react-hw-05-movies-2/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/main.07d3183d.js.map"
+    "main.67694512.css.map": "/AKdimka/goit-react-hw-05-movies-2/static/css/main.67694512.css.map",
+    "main.cfb2d7cf.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/main.cfb2d7cf.js.map",
+    "home-page.1dc845f1.chunk.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/home-page.1dc845f1.chunk.js.map",
+    "movie-page.a401728b.chunk.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/movie-page.a401728b.chunk.js.map",
+    "movie-details-page.676103e7.chunk.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/movie-details-page.676103e7.chunk.js.map",
+    "not-found-page.a2208e40.chunk.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/not-found-page.a2208e40.chunk.js.map",
+    "cast.293dc55b.chunk.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/cast.293dc55b.chunk.js.map",
+    "review.d84be11b.chunk.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/review.d84be11b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.67694512.css",
+    "static/js/main.cfb2d7cf.js"
   ]
 }
