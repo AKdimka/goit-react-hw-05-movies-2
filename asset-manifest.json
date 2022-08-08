@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AKdimka/goit-react-hw-05-movies-2/static/css/main.7acaea2f.css",
+    "main.js": "/AKdimka/goit-react-hw-05-movies-2/static/js/main.07d3183d.js",
+    "index.html": "/AKdimka/goit-react-hw-05-movies-2/index.html",
+    "main.7acaea2f.css.map": "/AKdimka/goit-react-hw-05-movies-2/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/AKdimka/goit-react-hw-05-movies-2/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
